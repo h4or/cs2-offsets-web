@@ -1,0 +1,1 @@
+Offsets for https://www.unknowncheats.me/forum/counter-strike-2-releases/605464-cs2go-external-esp.html
