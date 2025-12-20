@@ -1,0 +1,16 @@
+{
+  "name": "cs2_offsets",
+  "version": "1.0.0",
+  "description": "Simple web app to show the current offsets for a certain cs2 external esp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "h4or",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.2.1"
+  }
+}
