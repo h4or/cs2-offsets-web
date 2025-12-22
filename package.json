@@ -4,7 +4,7 @@
   "description": "Simple web app to show the current offsets for a certain cs2 external esp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node src/server.js"
   },
   "author": "h4or",
   "license": "MIT",
