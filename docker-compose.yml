@@ -1,0 +1,10 @@
+services:
+  app:
+    image: node:latest
+    working_dir: /usr/src/app
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    command: sh -c "npm ci || npm install && npm run run"
+    ports:
+      - "1337:1337"
